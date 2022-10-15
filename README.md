@@ -23,6 +23,7 @@ I am a talented, creative and highly experienced senior developer with team lead
 
 Worked on two large customer facing trading and investment platforms for both the UK and German Markets. Oversaw technical handover of project to permanent team in India.
 
+_ ![React](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white)
 - React, Node, Redux, Open Layers, Docker, REST, Azure, Jest, Enzyme.
 - Agile, Scrum, Dev Ops, Azure, Git Flow, Peer Reviewing, Mentoring.
 - [https://www.fidelity.de/](https://www.fidelity.de/)
