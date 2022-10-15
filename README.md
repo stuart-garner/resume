@@ -21,7 +21,7 @@ I am a talented, creative and highly experienced senior developer with team lead
 
 #### **NETWORK RAIL | MILTON KEYNES, UK | OCTOBER 2020 - PRESENT**
 
-Worked on two large customer facing trading and investment platforms for both the UK and German Markets. Oversaw technical handover of project to permanent team in India.
+Worked within the Data Science department on several GIS based “big data” projects and POC’s involving machine learning and innovative UI experiences.
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
