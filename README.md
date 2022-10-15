@@ -4,8 +4,8 @@
 
 ## **CONTACT**
 
-- stuart@stuartgarner.me
-- [https://www.stuartgarner.me/](https://www.stuartgarner.me/)
+- stuart@stuartgarner.dev
+- [https://www.stuartgarner.me/](https://www.stuartgarner.dev/)
 - [https://www.linkedin.com/in/stuartjgarner/](https://www.linkedin.com/in/stuartjgarner/)
 
 ## **PROFILE**
