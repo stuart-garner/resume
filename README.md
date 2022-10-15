@@ -39,8 +39,8 @@ Worked on two large customer facing trading and investment platforms for both th
 ![Peer Reviewing](https://img.shields.io/badge/Peer%20Reviewing-20232A?style=for-the-badge)
 ![Mentoring](https://img.shields.io/badge/Mentoring-20232A?style=for-the-badge)
 
-- [https://www.fidelity.de/](https://www.fidelity.de/)
-- [https://www.fidelity.co.uk/](https://www.fidelity.co.uk/)
+- [https://www.networkrail.co.uk/](https://www.networkrail.co.uk/)
+- [https://www.networkrail.co.uk/running-the-railway/intelligent-infrastructure/](https://www.networkrail.co.uk/running-the-railway/intelligent-infrastructure/)
 
 ---
 
