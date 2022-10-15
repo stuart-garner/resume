@@ -23,9 +23,22 @@ I am a talented, creative and highly experienced senior developer with team lead
 
 Worked on two large customer facing trading and investment platforms for both the UK and German Markets. Oversaw technical handover of project to permanent team in India.
 
-_ ![React](https://img.shields.io/badge/React?style=for-the-badge&logo=react&logoColor=white)
-- React, Node, Redux, Open Layers, Docker, REST, Azure, Jest, Enzyme.
-- Agile, Scrum, Dev Ops, Azure, Git Flow, Peer Reviewing, Mentoring.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+![Open Layers](https://img.shields.io/badge/OpenLayers-1DACFC?style=for-the-badge)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![Enzyme](https://img.shields.io/badge/Enzyme-323330?style=for-the-badge)
+
+![Agile](https://img.shields.io/badge/Agile-20232A?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-20232A?style=for-the-badge)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Peer Reviewing](https://img.shields.io/badge/Peer%20Reviewing-20232A?style=for-the-badge)
+![Mentoring](https://img.shields.io/badge/Mentoring-20232A?style=for-the-badge)
+
 - [https://www.fidelity.de/](https://www.fidelity.de/)
 - [https://www.fidelity.co.uk/](https://www.fidelity.co.uk/)
 
